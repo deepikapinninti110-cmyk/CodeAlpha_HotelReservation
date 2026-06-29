@@ -1,0 +1,89 @@
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 1
+
+Available Rooms:
+Room 101 | Type: Standard | Price: â??1500.0
+Room 102 | Type: Standard | Price: â??1500.0
+Room 201 | Type: Deluxe | Price: â??2500.0
+Room 202 | Type: Deluxe | Price: â??2500.0
+Room 301 | Type: Suite | Price: â??4000.0
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 2
+Enter your name: Deepika
+Enter room number: 202
+Room booked successfully!
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 4
+
+Current Reservations:
+Customer: Deepika | Room: 202 | Type: Deluxe
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 2
+Enter your name: Deepia
+Enter room number: 102
+Room booked successfully!
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 3
+Enter room number to cancel: 102
+Reservation cancelled successfully!
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 4
+
+Current Reservations:
+Customer: Deepika | Room: 202 | Type: Deluxe
+
+=== Hotel Reservation System ===
+1. View Available Rooms
+2. Book Room
+3. Cancel Reservation
+4. View Reservations
+5. Exit
+Choose an option: 5
+Thank you for using the system!
+PS C:\Users\anith\CodeAlpha_HotelReservation\src>
+
+
+
+
+
+
+
+
+
+
+
